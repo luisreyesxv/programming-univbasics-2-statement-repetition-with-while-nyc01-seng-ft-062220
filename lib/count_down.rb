@@ -6,5 +6,5 @@ while count_down do
     puts "Happy New Year!"
     Break
 else puts count_down
-  count_down -=1    
+  count_down -=1
 end
