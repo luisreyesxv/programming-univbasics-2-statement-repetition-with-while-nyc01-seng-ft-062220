@@ -1,5 +1,5 @@
 # Write your code here
-count_down = 0
+count_down = 10
 
 while count_down do
   if count_down == 0
